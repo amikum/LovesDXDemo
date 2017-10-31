@@ -1,0 +1,28 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Demo Company",
+            "Lovescontact__c": "akumar@demoorg.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Compass Inc",
+            "Lovescontact__c": "akumar@whittier.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Love's Travel Stops",
+            "Lovescontact__c": "denyel@loves.com"
+        }
+    ]
+}
