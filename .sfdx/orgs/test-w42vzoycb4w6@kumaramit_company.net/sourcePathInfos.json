@@ -32,14 +32,14 @@
     [
         "/Users/kumaramit/LovesDXDemo/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/kumaramit/LovesDXDemo/force-app/main/default",
             "isDirectory": true,
-            "size": 238,
-            "modifiedTime": 1509460673000,
-            "changeTime": 1509460673000,
-            "contentHash": "a9e496d44eea627204375b5986ec8c0ca0d44637",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 272,
+            "modifiedTime": 1509465164000,
+            "changeTime": 1509465164000,
+            "contentHash": "489ebd0afd9a1f71955dae4e94cace9d71206c49"
         }
     ],
     [
@@ -60,16 +60,15 @@
     [
         "/Users/kumaramit/LovesDXDemo",
         {
+            "state": "u",
             "sourcePath": "/Users/kumaramit/LovesDXDemo",
             "isDirectory": true,
-            "size": 272,
-            "modifiedTime": 1509457176000,
-            "changeTime": 1509457176000,
-            "contentHash": "14a1ee14f74bba9516adcb8e913f6889db2f844e",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 340,
+            "modifiedTime": 1509463058000,
+            "changeTime": 1509463058000,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "075d3a2cd242469717dc98087b818de189cd49a6"
         }
     ],
     [
@@ -192,14 +191,14 @@
     [
         "/Users/kumaramit/LovesDXDemo/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
             "sourcePath": "/Users/kumaramit/LovesDXDemo/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1509460785000,
             "changeTime": 1509460785000,
-            "contentHash": "feda5b6c12767d0d2e71b13c64cc155b36f02450"
+            "contentHash": "feda5b6c12767d0d2e71b13c64cc155b36f02450",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -296,14 +295,53 @@
     [
         "/Users/kumaramit/LovesDXDemo/force-app/main/default/objects/Account/fields/Lovescontactphone__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kumaramit/LovesDXDemo/force-app/main/default/objects/Account/fields/Lovescontactphone__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 445,
             "modifiedTime": 1509460834000,
             "changeTime": 1509460834000,
-            "contentHash": "e8b5162c2f551bec59ec5d075f014d218241d9af"
+            "contentHash": "e8b5162c2f551bec59ec5d075f014d218241d9af",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kumaramit/LovesDXDemo/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1509465164000,
+            "changeTime": 1509465164000,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kumaramit/LovesDXDemo/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 201,
+            "modifiedTime": 1509465293000,
+            "changeTime": 1509465293000,
+            "contentHash": "85a7f0689ee1b9c8dce8f70e41f22e9d65b80cdf"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kumaramit/LovesDXDemo/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1509465164000,
+            "changeTime": 1509465164000,
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f"
         }
     ]
 ]
